@@ -106,3 +106,16 @@ public class RPS
 >### **The OG revenge story** :
 ![The Original Story](https://i.imgur.com/hAS927q.jpeg)
 
+># **Table of Rock Paper Scissor Possibilities :**
+|**Player**|**Computer**|**Winner**|
+|----------|------------|----------|
+|ROCK|ROCK|TIE|
+|ROCK|PAPER|COMPUTER|
+|ROCK|SCISSOR|PLAYER|
+|PAPER|PAPER|TIE|
+|PAPER|SCISSOR|COMPUTER|
+|PAPER|ROCK|PLAYER|
+|ROCK|ROCK|TIE|
+|ROCK|PAPER|COMPUTER|
+|ROCK|SCISSOR|PLAYER|
+
