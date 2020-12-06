@@ -106,22 +106,3 @@ public class RPS
 >### **The OG revenge story** :
 ![The Original Story](https://i.imgur.com/hAS927q.jpeg)
 
-># **Table of Rock Paper Scissor Possibilities :**
-|**Player**|**Computer**|**Winner**|
-|----------|------------|----------|
-|ROCK|ROCK|TIE|
-|ROCK|PAPER|COMPUTER|
-|ROCK|SCISSOR|PLAYER|
-|PAPER|PAPER|TIE|
-|PAPER|SCISSOR|COMPUTER|
-|PAPER|ROCK|PLAYER|
-|ROCK|ROCK|TIE|
-|ROCK|PAPER|COMPUTER|
-|ROCK|SCISSOR|PLAYER|
-
-<!--CHECK LIST-->
-
-* [X]Add one of the coolest project (or) program you have worked on with proper documentation(README) in the repository you created for task-3.
-* [X]There should be atleast 5 commits in the repository at the time of submission.
-* [X]Try to include images, bullet point, lists, tables, blockquotes, etc… in your README.md
-* [ ]Marks for this task depends on your creativity.
