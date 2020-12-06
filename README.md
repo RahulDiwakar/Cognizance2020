@@ -125,3 +125,4 @@ public class RPS
 * [X]There should be atleast 5 commits in the repository at the time of submission.
 * [X]Try to include images, bullet point, lists, tables, blockquotes, etc… in your README.md
 * [ ]Marks for this task depends on your creativity.
+  * (CREATIVITY : ERROR 404 NOT FOUND)
