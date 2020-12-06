@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # **Task 4**
 >## **Description:-**
@@ -126,3 +127,6 @@ public class RPS
 * [X]Try to include images, bullet point, lists, tables, blockquotes, etc… in your README.md
 * [ ]Marks for this task depends on your creativity.
   * (CREATIVITY : ERROR 404 NOT FOUND)
+=======
+#Hello World!
+>>>>>>> 86022e03e508d24a5f5729fda837e43c2a4a1718
