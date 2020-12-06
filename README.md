@@ -7,7 +7,7 @@
 >## **Rules To Play** :
 1. The  player must enter his choice  from the options given below.
 1. **Rock** *beats* **Scissor**
-1. **Scissor** *beats* **Paper **
+1. **Scissor** *beats* **Paper**
 1. **Paper** *beats* **Rock**
 1. If both players' choices are same, then it is a **tie/draw**
 1. Minimum of *2 players* are required to play this game.
@@ -124,6 +124,6 @@ public class RPS
 * [X]Add one of the coolest project (or) program you have worked on with proper documentation(README) in the repository you created for task-3.
 * [X]There should be atleast 5 commits in the repository at the time of submission.
 * [X]Try to include images, bullet point, lists, tables, blockquotes, etc… in your README.md
-* [ ]Marks for this task depends on your creativity.
+* []Marks for this task depends on your creativity.
   * (CREATIVITY : ERROR 404 NOT FOUND)
 #Hello World!
