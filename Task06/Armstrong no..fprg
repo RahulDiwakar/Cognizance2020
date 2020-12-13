@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Rahul-Diwakar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-19 03:24:04 PM"/>
+        <attribute name="created" value="UmFodWwtRGl3YWthcjtERVNLVE9QLUpENUQzTUs7MjAyMC0xMS0xOTswMjowNDo1NiBQTTszNTg2"/>
+        <attribute name="edited" value="UmFodWwtRGl3YWthcjtERVNLVE9QLUpENUQzTUs7MjAyMC0xMS0xOTswMzoyNDowNCBQTTsyOzM2OTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num, n, rem, result" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter number: &quot;" newline="True"/>
+            <input variable="n"/>
+            <assign variable="num" expression="n"/>
+            <assign variable="result" expression="0"/>
+            <while expression="num!=0">
+                <assign variable="rem" expression="num%10"/>
+                <assign variable="result" expression="result+rem*rem*rem"/>
+                <assign variable="num" expression="num/10"/>
+            </while>
+            <if expression="result==n">
+                <then>
+                    <output expression="&quot;It is an Armstrong Number&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Nope&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
