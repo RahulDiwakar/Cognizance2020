@@ -1,7 +1,7 @@
 
 ># Task 06
 # **Armstrong numbers.**
->## <span style="colour:red"> **Pseudo Code** for <span style="color:green"> **Armstrong Numbers**   
+>## <span style="color:red"> **Pseudo Code** for <span style="color:green"> **Armstrong Numbers**   
 * Declare integers *num,n,rem,result*.
 * Use *n* to get the input from the user.
 * Assign *n* to variable *num* <span style="color:red">(num=n).
