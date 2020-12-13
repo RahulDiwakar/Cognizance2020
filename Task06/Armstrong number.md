@@ -15,7 +15,7 @@
   * If <span style="color:lime"> **result==n** is true</span>,  then it is an <span style="color:Lime">**Armstrong Number**
   * If <span style="color:red"> **result==n** is *false*</span>,  then it is <span style="color:red">**Not an Armstrong Number**.
 
-
+![Flowchart](Armstrong.png)
 
 
 
