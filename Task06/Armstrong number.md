@@ -1,7 +1,6 @@
 
 ># Task 6
 # **Armstrong numbers.**
-<!-->
 >## <span style="color:red"> **Pseudo Code** for <span style="color:green"> **Armstrong Numbers**   
 * Declare integers *num,n,rem,result*.
 * Use *n* to get the input from the user.
@@ -15,7 +14,7 @@
 * If the while condition is false, then :-
   * If <span style="color:lime"> **result==n** is true</span>,  then it is an <span style="color:Lime">**Armstrong Number**
   * If <span style="color:red"> **result==n** is *false*</span>,  then it is <span style="color:red">**Not an Armstrong Number**.
-  
+
 
 
 
