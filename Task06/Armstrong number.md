@@ -1,5 +1,5 @@
 
-># Task 6
+># Task 06
 # **Armstrong numbers.**
 >## <span style="color:red"> **Pseudo Code** for <span style="color:green"> **Armstrong Numbers**   
 * Declare integers *num,n,rem,result*.
