@@ -6,10 +6,10 @@ for (var i = 0; i < names.length; i++) {
   var firstLetter = names[i].charAt(0).toLowerCase();
 
   if (firstLetter === 'r') {
-    byeSpeaker(names[i]);
+    window.byeSpeaker.speak(names[i]);
   }
   else {
-    helloSpeaker(names[i]);
+    window.helloSpeaker.speak(names[i]);
   }
 }
 
