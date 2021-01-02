@@ -1,12 +1,12 @@
 /********** Base styles reseting browser preset margins and box size**********/
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  margin: 5;
+  padding: 5;
 }
 /********** Container body font family and font size ***********/
 body {
-  font-family: sans-serif;
+  font-family: comic-sans;
   font-size: 100%;
 }
 /********** Container H2 styles for region position on section with margins
