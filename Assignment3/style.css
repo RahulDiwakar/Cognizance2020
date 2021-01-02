@@ -45,7 +45,7 @@
   text-align: center;
   color: #ff4532;
   font-size: 50px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
   font-weight: bold;
 }
 
@@ -81,7 +81,7 @@ li{
 	height: auto;
 	color: black;
 	background-color: rgba(0,0,0,0.2);
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: "Comic Sans MS", sans-serif;
 	padding: 20px;
 }
 
